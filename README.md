@@ -14,3 +14,5 @@
     - [VIDEO](https://www.youtube.com/watch?v=iJcSFzR9s8Y&list=PLuHgQVnccGMBxNK38TqfBWk-QpEI7UkY8)  
   - [UI 런타임으로서의 React](https://overreacted.io/ko/react-as-a-ui-runtime/)  
   - [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)  
+  - [React hooks 이해](https://www.youtube.com/playlist?list=PLAHa1zfLtLiMukrBDWr-o0q-At7oARwXv)  
+  
